@@ -1,2 +1,3 @@
 Ce dépot contient le fichier de la modélisation solidworks que j'ai fait pour remplacer le/les silent block de moteur du projecteur super 8 Eumig Mark 8
-J'ai
+En travaillant sur un problème que j'avais sur ce projecteur, j'ai cassé un des deux silent block qui maintenait le moteur (mais qui permettait de le faire bouger avec le sélecteur du projecteur) j'ai donc décidé de le modéliser et de le faire re-faire à l'imprimante 3d.
+J'ai respecté es côtes que j'ai mesuré sur la deuxième pièce qui, elle, est en bonne état. Au moment ou j'écris ces lignes, je ne sais pas si les côtes sont bonnes car je n'ai pas encore imprimé la pièce donc je ne sais pas si je dois faire des ajustements dessus.
